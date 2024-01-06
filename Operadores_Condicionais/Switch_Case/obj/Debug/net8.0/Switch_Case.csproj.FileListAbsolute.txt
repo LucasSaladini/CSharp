@@ -1,0 +1,15 @@
+/home/midnight/Documents/C#/Operadores_Condicionais/Switch_Case/bin/Debug/net8.0/Switch_Case
+/home/midnight/Documents/C#/Operadores_Condicionais/Switch_Case/bin/Debug/net8.0/Switch_Case.deps.json
+/home/midnight/Documents/C#/Operadores_Condicionais/Switch_Case/bin/Debug/net8.0/Switch_Case.runtimeconfig.json
+/home/midnight/Documents/C#/Operadores_Condicionais/Switch_Case/bin/Debug/net8.0/Switch_Case.dll
+/home/midnight/Documents/C#/Operadores_Condicionais/Switch_Case/bin/Debug/net8.0/Switch_Case.pdb
+/home/midnight/Documents/C#/Operadores_Condicionais/Switch_Case/obj/Debug/net8.0/Switch_Case.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/C#/Operadores_Condicionais/Switch_Case/obj/Debug/net8.0/Switch_Case.AssemblyInfoInputs.cache
+/home/midnight/Documents/C#/Operadores_Condicionais/Switch_Case/obj/Debug/net8.0/Switch_Case.AssemblyInfo.cs
+/home/midnight/Documents/C#/Operadores_Condicionais/Switch_Case/obj/Debug/net8.0/Switch_Case.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/C#/Operadores_Condicionais/Switch_Case/obj/Debug/net8.0/Switch_Case.sourcelink.json
+/home/midnight/Documents/C#/Operadores_Condicionais/Switch_Case/obj/Debug/net8.0/Switch_Case.dll
+/home/midnight/Documents/C#/Operadores_Condicionais/Switch_Case/obj/Debug/net8.0/refint/Switch_Case.dll
+/home/midnight/Documents/C#/Operadores_Condicionais/Switch_Case/obj/Debug/net8.0/Switch_Case.pdb
+/home/midnight/Documents/C#/Operadores_Condicionais/Switch_Case/obj/Debug/net8.0/Switch_Case.genruntimeconfig.cache
+/home/midnight/Documents/C#/Operadores_Condicionais/Switch_Case/obj/Debug/net8.0/ref/Switch_Case.dll

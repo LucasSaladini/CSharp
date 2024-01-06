@@ -1,0 +1,15 @@
+/home/midnight/Documents/C#/Operadores_Condicionais/bin/Debug/net8.0/Operadores_Condicionais
+/home/midnight/Documents/C#/Operadores_Condicionais/bin/Debug/net8.0/Operadores_Condicionais.deps.json
+/home/midnight/Documents/C#/Operadores_Condicionais/bin/Debug/net8.0/Operadores_Condicionais.runtimeconfig.json
+/home/midnight/Documents/C#/Operadores_Condicionais/bin/Debug/net8.0/Operadores_Condicionais.dll
+/home/midnight/Documents/C#/Operadores_Condicionais/bin/Debug/net8.0/Operadores_Condicionais.pdb
+/home/midnight/Documents/C#/Operadores_Condicionais/obj/Debug/net8.0/Operadores_Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/C#/Operadores_Condicionais/obj/Debug/net8.0/Operadores_Condicionais.AssemblyInfoInputs.cache
+/home/midnight/Documents/C#/Operadores_Condicionais/obj/Debug/net8.0/Operadores_Condicionais.AssemblyInfo.cs
+/home/midnight/Documents/C#/Operadores_Condicionais/obj/Debug/net8.0/Operadores_Condicionais.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/C#/Operadores_Condicionais/obj/Debug/net8.0/Operadores_Condicionais.sourcelink.json
+/home/midnight/Documents/C#/Operadores_Condicionais/obj/Debug/net8.0/Operadores_Condicionais.dll
+/home/midnight/Documents/C#/Operadores_Condicionais/obj/Debug/net8.0/refint/Operadores_Condicionais.dll
+/home/midnight/Documents/C#/Operadores_Condicionais/obj/Debug/net8.0/Operadores_Condicionais.pdb
+/home/midnight/Documents/C#/Operadores_Condicionais/obj/Debug/net8.0/Operadores_Condicionais.genruntimeconfig.cache
+/home/midnight/Documents/C#/Operadores_Condicionais/obj/Debug/net8.0/ref/Operadores_Condicionais.dll

@@ -1,0 +1,15 @@
+/home/midnight/Documents/C#/Operadores_de_Atribuicao/bin/Debug/net8.0/Operadores_de_Atribuicao
+/home/midnight/Documents/C#/Operadores_de_Atribuicao/bin/Debug/net8.0/Operadores_de_Atribuicao.deps.json
+/home/midnight/Documents/C#/Operadores_de_Atribuicao/bin/Debug/net8.0/Operadores_de_Atribuicao.runtimeconfig.json
+/home/midnight/Documents/C#/Operadores_de_Atribuicao/bin/Debug/net8.0/Operadores_de_Atribuicao.dll
+/home/midnight/Documents/C#/Operadores_de_Atribuicao/bin/Debug/net8.0/Operadores_de_Atribuicao.pdb
+/home/midnight/Documents/C#/Operadores_de_Atribuicao/obj/Debug/net8.0/Operadores_de_Atribuicao.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/C#/Operadores_de_Atribuicao/obj/Debug/net8.0/Operadores_de_Atribuicao.AssemblyInfoInputs.cache
+/home/midnight/Documents/C#/Operadores_de_Atribuicao/obj/Debug/net8.0/Operadores_de_Atribuicao.AssemblyInfo.cs
+/home/midnight/Documents/C#/Operadores_de_Atribuicao/obj/Debug/net8.0/Operadores_de_Atribuicao.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/C#/Operadores_de_Atribuicao/obj/Debug/net8.0/Operadores_de_Atribuicao.sourcelink.json
+/home/midnight/Documents/C#/Operadores_de_Atribuicao/obj/Debug/net8.0/Operadores_de_Atribuicao.dll
+/home/midnight/Documents/C#/Operadores_de_Atribuicao/obj/Debug/net8.0/refint/Operadores_de_Atribuicao.dll
+/home/midnight/Documents/C#/Operadores_de_Atribuicao/obj/Debug/net8.0/Operadores_de_Atribuicao.pdb
+/home/midnight/Documents/C#/Operadores_de_Atribuicao/obj/Debug/net8.0/Operadores_de_Atribuicao.genruntimeconfig.cache
+/home/midnight/Documents/C#/Operadores_de_Atribuicao/obj/Debug/net8.0/ref/Operadores_de_Atribuicao.dll

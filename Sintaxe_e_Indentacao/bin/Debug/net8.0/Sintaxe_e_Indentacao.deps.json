@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sintaxe_e_Indentacao/1.0.0": {
+        "runtime": {
+          "Sintaxe_e_Indentacao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sintaxe_e_Indentacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

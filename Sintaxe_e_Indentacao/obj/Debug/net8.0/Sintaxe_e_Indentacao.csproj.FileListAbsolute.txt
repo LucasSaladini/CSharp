@@ -1,0 +1,15 @@
+/home/midnight/Documents/C#/Sintaxe_e_Indentacao/bin/Debug/net8.0/Sintaxe_e_Indentacao
+/home/midnight/Documents/C#/Sintaxe_e_Indentacao/bin/Debug/net8.0/Sintaxe_e_Indentacao.deps.json
+/home/midnight/Documents/C#/Sintaxe_e_Indentacao/bin/Debug/net8.0/Sintaxe_e_Indentacao.runtimeconfig.json
+/home/midnight/Documents/C#/Sintaxe_e_Indentacao/bin/Debug/net8.0/Sintaxe_e_Indentacao.dll
+/home/midnight/Documents/C#/Sintaxe_e_Indentacao/bin/Debug/net8.0/Sintaxe_e_Indentacao.pdb
+/home/midnight/Documents/C#/Sintaxe_e_Indentacao/obj/Debug/net8.0/Sintaxe_e_Indentacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/C#/Sintaxe_e_Indentacao/obj/Debug/net8.0/Sintaxe_e_Indentacao.AssemblyInfoInputs.cache
+/home/midnight/Documents/C#/Sintaxe_e_Indentacao/obj/Debug/net8.0/Sintaxe_e_Indentacao.AssemblyInfo.cs
+/home/midnight/Documents/C#/Sintaxe_e_Indentacao/obj/Debug/net8.0/Sintaxe_e_Indentacao.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/C#/Sintaxe_e_Indentacao/obj/Debug/net8.0/Sintaxe_e_Indentacao.sourcelink.json
+/home/midnight/Documents/C#/Sintaxe_e_Indentacao/obj/Debug/net8.0/Sintaxe_e_Indentacao.dll
+/home/midnight/Documents/C#/Sintaxe_e_Indentacao/obj/Debug/net8.0/refint/Sintaxe_e_Indentacao.dll
+/home/midnight/Documents/C#/Sintaxe_e_Indentacao/obj/Debug/net8.0/Sintaxe_e_Indentacao.pdb
+/home/midnight/Documents/C#/Sintaxe_e_Indentacao/obj/Debug/net8.0/Sintaxe_e_Indentacao.genruntimeconfig.cache
+/home/midnight/Documents/C#/Sintaxe_e_Indentacao/obj/Debug/net8.0/ref/Sintaxe_e_Indentacao.dll

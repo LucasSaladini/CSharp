@@ -1,0 +1,15 @@
+/home/midnight/Documents/C#/Classe/obj/Debug/net8.0/Classe.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/C#/Classe/obj/Debug/net8.0/Classe.AssemblyInfoInputs.cache
+/home/midnight/Documents/C#/Classe/obj/Debug/net8.0/Classe.AssemblyInfo.cs
+/home/midnight/Documents/C#/Classe/obj/Debug/net8.0/Classe.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/C#/Classe/obj/Debug/net8.0/Classe.sourcelink.json
+/home/midnight/Documents/C#/Classe/bin/Debug/net8.0/Classe
+/home/midnight/Documents/C#/Classe/bin/Debug/net8.0/Classe.deps.json
+/home/midnight/Documents/C#/Classe/bin/Debug/net8.0/Classe.runtimeconfig.json
+/home/midnight/Documents/C#/Classe/bin/Debug/net8.0/Classe.dll
+/home/midnight/Documents/C#/Classe/bin/Debug/net8.0/Classe.pdb
+/home/midnight/Documents/C#/Classe/obj/Debug/net8.0/Classe.dll
+/home/midnight/Documents/C#/Classe/obj/Debug/net8.0/refint/Classe.dll
+/home/midnight/Documents/C#/Classe/obj/Debug/net8.0/Classe.pdb
+/home/midnight/Documents/C#/Classe/obj/Debug/net8.0/Classe.genruntimeconfig.cache
+/home/midnight/Documents/C#/Classe/obj/Debug/net8.0/ref/Classe.dll

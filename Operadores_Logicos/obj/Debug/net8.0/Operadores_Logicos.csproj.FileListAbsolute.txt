@@ -1,0 +1,15 @@
+/home/midnight/Documents/C#/Operadores_Logicos/bin/Debug/net8.0/Operadores_Logicos
+/home/midnight/Documents/C#/Operadores_Logicos/bin/Debug/net8.0/Operadores_Logicos.deps.json
+/home/midnight/Documents/C#/Operadores_Logicos/bin/Debug/net8.0/Operadores_Logicos.runtimeconfig.json
+/home/midnight/Documents/C#/Operadores_Logicos/bin/Debug/net8.0/Operadores_Logicos.dll
+/home/midnight/Documents/C#/Operadores_Logicos/bin/Debug/net8.0/Operadores_Logicos.pdb
+/home/midnight/Documents/C#/Operadores_Logicos/obj/Debug/net8.0/Operadores_Logicos.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/C#/Operadores_Logicos/obj/Debug/net8.0/Operadores_Logicos.AssemblyInfoInputs.cache
+/home/midnight/Documents/C#/Operadores_Logicos/obj/Debug/net8.0/Operadores_Logicos.AssemblyInfo.cs
+/home/midnight/Documents/C#/Operadores_Logicos/obj/Debug/net8.0/Operadores_Logicos.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/C#/Operadores_Logicos/obj/Debug/net8.0/Operadores_Logicos.sourcelink.json
+/home/midnight/Documents/C#/Operadores_Logicos/obj/Debug/net8.0/Operadores_Logicos.dll
+/home/midnight/Documents/C#/Operadores_Logicos/obj/Debug/net8.0/refint/Operadores_Logicos.dll
+/home/midnight/Documents/C#/Operadores_Logicos/obj/Debug/net8.0/Operadores_Logicos.pdb
+/home/midnight/Documents/C#/Operadores_Logicos/obj/Debug/net8.0/Operadores_Logicos.genruntimeconfig.cache
+/home/midnight/Documents/C#/Operadores_Logicos/obj/Debug/net8.0/ref/Operadores_Logicos.dll

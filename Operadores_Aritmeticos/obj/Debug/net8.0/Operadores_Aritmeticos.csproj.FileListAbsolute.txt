@@ -1,0 +1,15 @@
+/home/midnight/Documents/C#/Operadores_Aritmeticos/bin/Debug/net8.0/Operadores_Aritmeticos
+/home/midnight/Documents/C#/Operadores_Aritmeticos/bin/Debug/net8.0/Operadores_Aritmeticos.deps.json
+/home/midnight/Documents/C#/Operadores_Aritmeticos/bin/Debug/net8.0/Operadores_Aritmeticos.runtimeconfig.json
+/home/midnight/Documents/C#/Operadores_Aritmeticos/bin/Debug/net8.0/Operadores_Aritmeticos.dll
+/home/midnight/Documents/C#/Operadores_Aritmeticos/bin/Debug/net8.0/Operadores_Aritmeticos.pdb
+/home/midnight/Documents/C#/Operadores_Aritmeticos/obj/Debug/net8.0/Operadores_Aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/C#/Operadores_Aritmeticos/obj/Debug/net8.0/Operadores_Aritmeticos.AssemblyInfoInputs.cache
+/home/midnight/Documents/C#/Operadores_Aritmeticos/obj/Debug/net8.0/Operadores_Aritmeticos.AssemblyInfo.cs
+/home/midnight/Documents/C#/Operadores_Aritmeticos/obj/Debug/net8.0/Operadores_Aritmeticos.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/C#/Operadores_Aritmeticos/obj/Debug/net8.0/Operadores_Aritmeticos.sourcelink.json
+/home/midnight/Documents/C#/Operadores_Aritmeticos/obj/Debug/net8.0/Operadores_Aritmeticos.dll
+/home/midnight/Documents/C#/Operadores_Aritmeticos/obj/Debug/net8.0/refint/Operadores_Aritmeticos.dll
+/home/midnight/Documents/C#/Operadores_Aritmeticos/obj/Debug/net8.0/Operadores_Aritmeticos.pdb
+/home/midnight/Documents/C#/Operadores_Aritmeticos/obj/Debug/net8.0/Operadores_Aritmeticos.genruntimeconfig.cache
+/home/midnight/Documents/C#/Operadores_Aritmeticos/obj/Debug/net8.0/ref/Operadores_Aritmeticos.dll

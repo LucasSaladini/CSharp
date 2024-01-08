@@ -1,0 +1,15 @@
+/home/midnight/Documents/C#/Estruturas_de_Repeticao/bin/Debug/net8.0/Estruturas_de_Repeticao
+/home/midnight/Documents/C#/Estruturas_de_Repeticao/bin/Debug/net8.0/Estruturas_de_Repeticao.deps.json
+/home/midnight/Documents/C#/Estruturas_de_Repeticao/bin/Debug/net8.0/Estruturas_de_Repeticao.runtimeconfig.json
+/home/midnight/Documents/C#/Estruturas_de_Repeticao/bin/Debug/net8.0/Estruturas_de_Repeticao.dll
+/home/midnight/Documents/C#/Estruturas_de_Repeticao/bin/Debug/net8.0/Estruturas_de_Repeticao.pdb
+/home/midnight/Documents/C#/Estruturas_de_Repeticao/obj/Debug/net8.0/Estruturas_de_Repeticao.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/C#/Estruturas_de_Repeticao/obj/Debug/net8.0/Estruturas_de_Repeticao.AssemblyInfoInputs.cache
+/home/midnight/Documents/C#/Estruturas_de_Repeticao/obj/Debug/net8.0/Estruturas_de_Repeticao.AssemblyInfo.cs
+/home/midnight/Documents/C#/Estruturas_de_Repeticao/obj/Debug/net8.0/Estruturas_de_Repeticao.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/C#/Estruturas_de_Repeticao/obj/Debug/net8.0/Estruturas_de_Repeticao.sourcelink.json
+/home/midnight/Documents/C#/Estruturas_de_Repeticao/obj/Debug/net8.0/Estruturas_de_Repeticao.dll
+/home/midnight/Documents/C#/Estruturas_de_Repeticao/obj/Debug/net8.0/refint/Estruturas_de_Repeticao.dll
+/home/midnight/Documents/C#/Estruturas_de_Repeticao/obj/Debug/net8.0/Estruturas_de_Repeticao.pdb
+/home/midnight/Documents/C#/Estruturas_de_Repeticao/obj/Debug/net8.0/Estruturas_de_Repeticao.genruntimeconfig.cache
+/home/midnight/Documents/C#/Estruturas_de_Repeticao/obj/Debug/net8.0/ref/Estruturas_de_Repeticao.dll

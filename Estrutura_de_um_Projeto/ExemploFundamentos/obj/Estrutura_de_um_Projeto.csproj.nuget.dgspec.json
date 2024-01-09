@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/midnight/Documents/C#/Estrutura_de_um_Projeto/ExemploFundamentos/Estrutura_de_um_Projeto.csproj": {}
+  },
+  "projects": {
+    "/home/midnight/Documents/C#/Estrutura_de_um_Projeto/ExemploFundamentos.Common/ExemploFundamentos.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/midnight/Documents/C#/Estrutura_de_um_Projeto/ExemploFundamentos.Common/ExemploFundamentos.Common.csproj",
+        "projectName": "ExemploFundamentos.Common",
+        "projectPath": "/home/midnight/Documents/C#/Estrutura_de_um_Projeto/ExemploFundamentos.Common/ExemploFundamentos.Common.csproj",
+        "packagesPath": "/home/midnight/.nuget/packages/",
+        "outputPath": "/home/midnight/Documents/C#/Estrutura_de_um_Projeto/ExemploFundamentos.Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/midnight/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/midnight/Documents/C#/Estrutura_de_um_Projeto/ExemploFundamentos/Estrutura_de_um_Projeto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/midnight/Documents/C#/Estrutura_de_um_Projeto/ExemploFundamentos/Estrutura_de_um_Projeto.csproj",
+        "projectName": "Estrutura_de_um_Projeto",
+        "projectPath": "/home/midnight/Documents/C#/Estrutura_de_um_Projeto/ExemploFundamentos/Estrutura_de_um_Projeto.csproj",
+        "packagesPath": "/home/midnight/.nuget/packages/",
+        "outputPath": "/home/midnight/Documents/C#/Estrutura_de_um_Projeto/ExemploFundamentos/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/midnight/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/midnight/Documents/C#/Estrutura_de_um_Projeto/ExemploFundamentos.Common/ExemploFundamentos.Common.csproj": {
+                "projectPath": "/home/midnight/Documents/C#/Estrutura_de_um_Projeto/ExemploFundamentos.Common/ExemploFundamentos.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

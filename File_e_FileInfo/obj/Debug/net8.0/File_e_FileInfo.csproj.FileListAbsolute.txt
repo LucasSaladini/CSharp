@@ -1,0 +1,14 @@
+D:\CSharp-main\CSharp-main\File_e_FileInfo\bin\Debug\net8.0\File_e_FileInfo.exe
+D:\CSharp-main\CSharp-main\File_e_FileInfo\bin\Debug\net8.0\File_e_FileInfo.deps.json
+D:\CSharp-main\CSharp-main\File_e_FileInfo\bin\Debug\net8.0\File_e_FileInfo.runtimeconfig.json
+D:\CSharp-main\CSharp-main\File_e_FileInfo\bin\Debug\net8.0\File_e_FileInfo.dll
+D:\CSharp-main\CSharp-main\File_e_FileInfo\bin\Debug\net8.0\File_e_FileInfo.pdb
+D:\CSharp-main\CSharp-main\File_e_FileInfo\obj\Debug\net8.0\File_e_FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-main\CSharp-main\File_e_FileInfo\obj\Debug\net8.0\File_e_FileInfo.AssemblyInfoInputs.cache
+D:\CSharp-main\CSharp-main\File_e_FileInfo\obj\Debug\net8.0\File_e_FileInfo.AssemblyInfo.cs
+D:\CSharp-main\CSharp-main\File_e_FileInfo\obj\Debug\net8.0\File_e_FileInfo.csproj.CoreCompileInputs.cache
+D:\CSharp-main\CSharp-main\File_e_FileInfo\obj\Debug\net8.0\File_e_FileInfo.dll
+D:\CSharp-main\CSharp-main\File_e_FileInfo\obj\Debug\net8.0\refint\File_e_FileInfo.dll
+D:\CSharp-main\CSharp-main\File_e_FileInfo\obj\Debug\net8.0\File_e_FileInfo.pdb
+D:\CSharp-main\CSharp-main\File_e_FileInfo\obj\Debug\net8.0\File_e_FileInfo.genruntimeconfig.cache
+D:\CSharp-main\CSharp-main\File_e_FileInfo\obj\Debug\net8.0\ref\File_e_FileInfo.dll

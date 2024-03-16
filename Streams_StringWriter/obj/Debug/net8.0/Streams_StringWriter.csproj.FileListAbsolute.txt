@@ -1,0 +1,14 @@
+D:\CSharp-main\CSharp-main\Streams_StringWriter\bin\Debug\net8.0\Streams_StringWriter.exe
+D:\CSharp-main\CSharp-main\Streams_StringWriter\bin\Debug\net8.0\Streams_StringWriter.deps.json
+D:\CSharp-main\CSharp-main\Streams_StringWriter\bin\Debug\net8.0\Streams_StringWriter.runtimeconfig.json
+D:\CSharp-main\CSharp-main\Streams_StringWriter\bin\Debug\net8.0\Streams_StringWriter.dll
+D:\CSharp-main\CSharp-main\Streams_StringWriter\bin\Debug\net8.0\Streams_StringWriter.pdb
+D:\CSharp-main\CSharp-main\Streams_StringWriter\obj\Debug\net8.0\Streams_StringWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-main\CSharp-main\Streams_StringWriter\obj\Debug\net8.0\Streams_StringWriter.AssemblyInfoInputs.cache
+D:\CSharp-main\CSharp-main\Streams_StringWriter\obj\Debug\net8.0\Streams_StringWriter.AssemblyInfo.cs
+D:\CSharp-main\CSharp-main\Streams_StringWriter\obj\Debug\net8.0\Streams_StringWriter.csproj.CoreCompileInputs.cache
+D:\CSharp-main\CSharp-main\Streams_StringWriter\obj\Debug\net8.0\Streams_StringWriter.dll
+D:\CSharp-main\CSharp-main\Streams_StringWriter\obj\Debug\net8.0\refint\Streams_StringWriter.dll
+D:\CSharp-main\CSharp-main\Streams_StringWriter\obj\Debug\net8.0\Streams_StringWriter.pdb
+D:\CSharp-main\CSharp-main\Streams_StringWriter\obj\Debug\net8.0\Streams_StringWriter.genruntimeconfig.cache
+D:\CSharp-main\CSharp-main\Streams_StringWriter\obj\Debug\net8.0\ref\Streams_StringWriter.dll

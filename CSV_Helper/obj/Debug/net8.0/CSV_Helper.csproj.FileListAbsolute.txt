@@ -1,0 +1,17 @@
+D:\CSharp-main\CSharp-main\CSV_Helper\bin\Debug\net8.0\CSV_Helper.exe
+D:\CSharp-main\CSharp-main\CSV_Helper\bin\Debug\net8.0\CSV_Helper.deps.json
+D:\CSharp-main\CSharp-main\CSV_Helper\bin\Debug\net8.0\CSV_Helper.runtimeconfig.json
+D:\CSharp-main\CSharp-main\CSV_Helper\bin\Debug\net8.0\CSV_Helper.dll
+D:\CSharp-main\CSharp-main\CSV_Helper\bin\Debug\net8.0\CSV_Helper.pdb
+D:\CSharp-main\CSharp-main\CSV_Helper\obj\Debug\net8.0\CSV_Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-main\CSharp-main\CSV_Helper\obj\Debug\net8.0\CSV_Helper.AssemblyInfoInputs.cache
+D:\CSharp-main\CSharp-main\CSV_Helper\obj\Debug\net8.0\CSV_Helper.AssemblyInfo.cs
+D:\CSharp-main\CSharp-main\CSV_Helper\obj\Debug\net8.0\CSV_Helper.csproj.CoreCompileInputs.cache
+D:\CSharp-main\CSharp-main\CSV_Helper\obj\Debug\net8.0\CSV_Helper.dll
+D:\CSharp-main\CSharp-main\CSV_Helper\obj\Debug\net8.0\refint\CSV_Helper.dll
+D:\CSharp-main\CSharp-main\CSV_Helper\obj\Debug\net8.0\CSV_Helper.pdb
+D:\CSharp-main\CSharp-main\CSV_Helper\obj\Debug\net8.0\CSV_Helper.genruntimeconfig.cache
+D:\CSharp-main\CSharp-main\CSV_Helper\obj\Debug\net8.0\ref\CSV_Helper.dll
+D:\CSharp-main\CSharp-main\CSV_Helper\bin\Debug\net8.0\CsvHelper.dll
+D:\CSharp-main\CSharp-main\CSV_Helper\obj\Debug\net8.0\CSV_Helper.csproj.AssemblyReference.cache
+D:\CSharp-main\CSharp-main\CSV_Helper\obj\Debug\net8.0\CSV_Helper.csproj.Up2Date

@@ -1,0 +1,14 @@
+D:\CSharp-main\CSharp-main\CSV_Stream\bin\Debug\net8.0\CSV_Stream.exe
+D:\CSharp-main\CSharp-main\CSV_Stream\bin\Debug\net8.0\CSV_Stream.deps.json
+D:\CSharp-main\CSharp-main\CSV_Stream\bin\Debug\net8.0\CSV_Stream.runtimeconfig.json
+D:\CSharp-main\CSharp-main\CSV_Stream\bin\Debug\net8.0\CSV_Stream.dll
+D:\CSharp-main\CSharp-main\CSV_Stream\bin\Debug\net8.0\CSV_Stream.pdb
+D:\CSharp-main\CSharp-main\CSV_Stream\obj\Debug\net8.0\CSV_Stream.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-main\CSharp-main\CSV_Stream\obj\Debug\net8.0\CSV_Stream.AssemblyInfoInputs.cache
+D:\CSharp-main\CSharp-main\CSV_Stream\obj\Debug\net8.0\CSV_Stream.AssemblyInfo.cs
+D:\CSharp-main\CSharp-main\CSV_Stream\obj\Debug\net8.0\CSV_Stream.csproj.CoreCompileInputs.cache
+D:\CSharp-main\CSharp-main\CSV_Stream\obj\Debug\net8.0\CSV_Stream.dll
+D:\CSharp-main\CSharp-main\CSV_Stream\obj\Debug\net8.0\refint\CSV_Stream.dll
+D:\CSharp-main\CSharp-main\CSV_Stream\obj\Debug\net8.0\CSV_Stream.pdb
+D:\CSharp-main\CSharp-main\CSV_Stream\obj\Debug\net8.0\CSV_Stream.genruntimeconfig.cache
+D:\CSharp-main\CSharp-main\CSV_Stream\obj\Debug\net8.0\ref\CSV_Stream.dll

@@ -1,0 +1,14 @@
+D:\CSharp-main\CSharp-main\Construtor\bin\Debug\net8.0\Construtor.exe
+D:\CSharp-main\CSharp-main\Construtor\bin\Debug\net8.0\Construtor.deps.json
+D:\CSharp-main\CSharp-main\Construtor\bin\Debug\net8.0\Construtor.runtimeconfig.json
+D:\CSharp-main\CSharp-main\Construtor\bin\Debug\net8.0\Construtor.dll
+D:\CSharp-main\CSharp-main\Construtor\bin\Debug\net8.0\Construtor.pdb
+D:\CSharp-main\CSharp-main\Construtor\obj\Debug\net8.0\Construtor.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-main\CSharp-main\Construtor\obj\Debug\net8.0\Construtor.AssemblyInfoInputs.cache
+D:\CSharp-main\CSharp-main\Construtor\obj\Debug\net8.0\Construtor.AssemblyInfo.cs
+D:\CSharp-main\CSharp-main\Construtor\obj\Debug\net8.0\Construtor.csproj.CoreCompileInputs.cache
+D:\CSharp-main\CSharp-main\Construtor\obj\Debug\net8.0\Construtor.dll
+D:\CSharp-main\CSharp-main\Construtor\obj\Debug\net8.0\refint\Construtor.dll
+D:\CSharp-main\CSharp-main\Construtor\obj\Debug\net8.0\Construtor.pdb
+D:\CSharp-main\CSharp-main\Construtor\obj\Debug\net8.0\Construtor.genruntimeconfig.cache
+D:\CSharp-main\CSharp-main\Construtor\obj\Debug\net8.0\ref\Construtor.dll

@@ -1,0 +1,14 @@
+D:\CSharp-main\CSharp-main\Classes_e_Objetos\bin\Debug\net8.0\Classes_e_Objetos.exe
+D:\CSharp-main\CSharp-main\Classes_e_Objetos\bin\Debug\net8.0\Classes_e_Objetos.deps.json
+D:\CSharp-main\CSharp-main\Classes_e_Objetos\bin\Debug\net8.0\Classes_e_Objetos.runtimeconfig.json
+D:\CSharp-main\CSharp-main\Classes_e_Objetos\bin\Debug\net8.0\Classes_e_Objetos.dll
+D:\CSharp-main\CSharp-main\Classes_e_Objetos\bin\Debug\net8.0\Classes_e_Objetos.pdb
+D:\CSharp-main\CSharp-main\Classes_e_Objetos\obj\Debug\net8.0\Classes_e_Objetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-main\CSharp-main\Classes_e_Objetos\obj\Debug\net8.0\Classes_e_Objetos.AssemblyInfoInputs.cache
+D:\CSharp-main\CSharp-main\Classes_e_Objetos\obj\Debug\net8.0\Classes_e_Objetos.AssemblyInfo.cs
+D:\CSharp-main\CSharp-main\Classes_e_Objetos\obj\Debug\net8.0\Classes_e_Objetos.csproj.CoreCompileInputs.cache
+D:\CSharp-main\CSharp-main\Classes_e_Objetos\obj\Debug\net8.0\Classes_e_Objetos.dll
+D:\CSharp-main\CSharp-main\Classes_e_Objetos\obj\Debug\net8.0\refint\Classes_e_Objetos.dll
+D:\CSharp-main\CSharp-main\Classes_e_Objetos\obj\Debug\net8.0\Classes_e_Objetos.pdb
+D:\CSharp-main\CSharp-main\Classes_e_Objetos\obj\Debug\net8.0\Classes_e_Objetos.genruntimeconfig.cache
+D:\CSharp-main\CSharp-main\Classes_e_Objetos\obj\Debug\net8.0\ref\Classes_e_Objetos.dll

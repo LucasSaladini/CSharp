@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Campos_e_Metodos/1.0.0": {
+        "runtime": {
+          "Campos_e_Metodos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Campos_e_Metodos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

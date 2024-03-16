@@ -1,0 +1,14 @@
+D:\CSharp-main\CSharp-main\FileSystemWatcher\bin\Debug\net8.0\FileSystemWatcher.exe
+D:\CSharp-main\CSharp-main\FileSystemWatcher\bin\Debug\net8.0\FileSystemWatcher.deps.json
+D:\CSharp-main\CSharp-main\FileSystemWatcher\bin\Debug\net8.0\FileSystemWatcher.runtimeconfig.json
+D:\CSharp-main\CSharp-main\FileSystemWatcher\bin\Debug\net8.0\FileSystemWatcher.dll
+D:\CSharp-main\CSharp-main\FileSystemWatcher\bin\Debug\net8.0\FileSystemWatcher.pdb
+D:\CSharp-main\CSharp-main\FileSystemWatcher\obj\Debug\net8.0\FileSystemWatcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-main\CSharp-main\FileSystemWatcher\obj\Debug\net8.0\FileSystemWatcher.AssemblyInfoInputs.cache
+D:\CSharp-main\CSharp-main\FileSystemWatcher\obj\Debug\net8.0\FileSystemWatcher.AssemblyInfo.cs
+D:\CSharp-main\CSharp-main\FileSystemWatcher\obj\Debug\net8.0\FileSystemWatcher.csproj.CoreCompileInputs.cache
+D:\CSharp-main\CSharp-main\FileSystemWatcher\obj\Debug\net8.0\FileSystemWatcher.dll
+D:\CSharp-main\CSharp-main\FileSystemWatcher\obj\Debug\net8.0\refint\FileSystemWatcher.dll
+D:\CSharp-main\CSharp-main\FileSystemWatcher\obj\Debug\net8.0\FileSystemWatcher.pdb
+D:\CSharp-main\CSharp-main\FileSystemWatcher\obj\Debug\net8.0\FileSystemWatcher.genruntimeconfig.cache
+D:\CSharp-main\CSharp-main\FileSystemWatcher\obj\Debug\net8.0\ref\FileSystemWatcher.dll

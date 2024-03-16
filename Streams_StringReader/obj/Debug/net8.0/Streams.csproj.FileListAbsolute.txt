@@ -1,0 +1,14 @@
+D:\CSharp-main\CSharp-main\Streams\obj\Debug\net8.0\Streams.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-main\CSharp-main\Streams\obj\Debug\net8.0\Streams.AssemblyInfoInputs.cache
+D:\CSharp-main\CSharp-main\Streams\obj\Debug\net8.0\Streams.AssemblyInfo.cs
+D:\CSharp-main\CSharp-main\Streams\obj\Debug\net8.0\Streams.csproj.CoreCompileInputs.cache
+D:\CSharp-main\CSharp-main\Streams\bin\Debug\net8.0\Streams.exe
+D:\CSharp-main\CSharp-main\Streams\bin\Debug\net8.0\Streams.deps.json
+D:\CSharp-main\CSharp-main\Streams\bin\Debug\net8.0\Streams.runtimeconfig.json
+D:\CSharp-main\CSharp-main\Streams\bin\Debug\net8.0\Streams.dll
+D:\CSharp-main\CSharp-main\Streams\bin\Debug\net8.0\Streams.pdb
+D:\CSharp-main\CSharp-main\Streams\obj\Debug\net8.0\Streams.dll
+D:\CSharp-main\CSharp-main\Streams\obj\Debug\net8.0\refint\Streams.dll
+D:\CSharp-main\CSharp-main\Streams\obj\Debug\net8.0\Streams.pdb
+D:\CSharp-main\CSharp-main\Streams\obj\Debug\net8.0\Streams.genruntimeconfig.cache
+D:\CSharp-main\CSharp-main\Streams\obj\Debug\net8.0\ref\Streams.dll

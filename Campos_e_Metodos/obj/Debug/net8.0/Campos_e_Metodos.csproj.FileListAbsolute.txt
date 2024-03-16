@@ -1,0 +1,14 @@
+D:\CSharp-main\CSharp-main\Campos_e_Metodos\bin\Debug\net8.0\Campos_e_Metodos.exe
+D:\CSharp-main\CSharp-main\Campos_e_Metodos\bin\Debug\net8.0\Campos_e_Metodos.deps.json
+D:\CSharp-main\CSharp-main\Campos_e_Metodos\bin\Debug\net8.0\Campos_e_Metodos.runtimeconfig.json
+D:\CSharp-main\CSharp-main\Campos_e_Metodos\bin\Debug\net8.0\Campos_e_Metodos.dll
+D:\CSharp-main\CSharp-main\Campos_e_Metodos\bin\Debug\net8.0\Campos_e_Metodos.pdb
+D:\CSharp-main\CSharp-main\Campos_e_Metodos\obj\Debug\net8.0\Campos_e_Metodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-main\CSharp-main\Campos_e_Metodos\obj\Debug\net8.0\Campos_e_Metodos.AssemblyInfoInputs.cache
+D:\CSharp-main\CSharp-main\Campos_e_Metodos\obj\Debug\net8.0\Campos_e_Metodos.AssemblyInfo.cs
+D:\CSharp-main\CSharp-main\Campos_e_Metodos\obj\Debug\net8.0\Campos_e_Metodos.csproj.CoreCompileInputs.cache
+D:\CSharp-main\CSharp-main\Campos_e_Metodos\obj\Debug\net8.0\Campos_e_Metodos.dll
+D:\CSharp-main\CSharp-main\Campos_e_Metodos\obj\Debug\net8.0\refint\Campos_e_Metodos.dll
+D:\CSharp-main\CSharp-main\Campos_e_Metodos\obj\Debug\net8.0\Campos_e_Metodos.pdb
+D:\CSharp-main\CSharp-main\Campos_e_Metodos\obj\Debug\net8.0\Campos_e_Metodos.genruntimeconfig.cache
+D:\CSharp-main\CSharp-main\Campos_e_Metodos\obj\Debug\net8.0\ref\Campos_e_Metodos.dll

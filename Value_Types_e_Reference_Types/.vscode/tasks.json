@@ -1,0 +1,19 @@
+{
+    "tasks": [
+        {
+            "type": "dotnet",
+            "task": "build",
+            "group": "build",
+            "problemMatcher": [],
+            "label": "dotnet: build"
+        },
+        {
+            "type": "dotnet",
+            "task": "build /home/midnight/Documents/C#/Value_Types_e_Reference_Types/Demos.csproj",
+            "file": "/home/midnight/Documents/C#/Value_Types_e_Reference_Types/Demos.csproj",
+            "group": "build",
+            "problemMatcher": [],
+            "label": "dotnet: build /home/midnight/Documents/C#/Value_Types_e_Reference_Types/Demos.csproj"
+        }
+    ]
+}

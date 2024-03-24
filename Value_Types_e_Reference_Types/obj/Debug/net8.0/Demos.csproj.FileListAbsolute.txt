@@ -1,0 +1,15 @@
+/home/midnight/Documents/C#/Value_Types_e_Reference_Types/bin/Debug/net8.0/Demos
+/home/midnight/Documents/C#/Value_Types_e_Reference_Types/bin/Debug/net8.0/Demos.deps.json
+/home/midnight/Documents/C#/Value_Types_e_Reference_Types/bin/Debug/net8.0/Demos.runtimeconfig.json
+/home/midnight/Documents/C#/Value_Types_e_Reference_Types/bin/Debug/net8.0/Demos.dll
+/home/midnight/Documents/C#/Value_Types_e_Reference_Types/bin/Debug/net8.0/Demos.pdb
+/home/midnight/Documents/C#/Value_Types_e_Reference_Types/obj/Debug/net8.0/Demos.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/C#/Value_Types_e_Reference_Types/obj/Debug/net8.0/Demos.AssemblyInfoInputs.cache
+/home/midnight/Documents/C#/Value_Types_e_Reference_Types/obj/Debug/net8.0/Demos.AssemblyInfo.cs
+/home/midnight/Documents/C#/Value_Types_e_Reference_Types/obj/Debug/net8.0/Demos.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/C#/Value_Types_e_Reference_Types/obj/Debug/net8.0/Demos.sourcelink.json
+/home/midnight/Documents/C#/Value_Types_e_Reference_Types/obj/Debug/net8.0/Demos.dll
+/home/midnight/Documents/C#/Value_Types_e_Reference_Types/obj/Debug/net8.0/refint/Demos.dll
+/home/midnight/Documents/C#/Value_Types_e_Reference_Types/obj/Debug/net8.0/Demos.pdb
+/home/midnight/Documents/C#/Value_Types_e_Reference_Types/obj/Debug/net8.0/Demos.genruntimeconfig.cache
+/home/midnight/Documents/C#/Value_Types_e_Reference_Types/obj/Debug/net8.0/ref/Demos.dll

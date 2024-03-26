@@ -26,8 +26,13 @@ public class Program
         p1.Idade = 30;
         p1.Documento = "1234";
 
+        Pessoa p2 = p1;
+
         TrocarNome(p1, "José");
 
-        WriteLine($"O novo nome é: {p1.Nome}");
+        WriteLine($@"
+        O nome de p1 é: {p1.Nome}
+        O nome de p2 é: {p2.Nome}
+        ");
     }
 }

@@ -8,7 +8,7 @@ public class Program
         return a + 20;
     }
 
-static void Demo5()
+	static void Demo5()
 	 {
   		int[] pares = new int[]{0, 2, 4, 6, 8}; 
 

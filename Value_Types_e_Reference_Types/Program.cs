@@ -8,6 +8,14 @@ public class Program
         return a + 20;
     }
 
+	 static void Demo5()
+	 {
+  		int[] pares = new int[]{0, 2, 4, 6, 8}; 
+
+			MudarParaImpar(pares);
+
+			WriteLine($"Os ímpares {string.Join(",", pares)}");
+	 }
    static void Demo4()
   {
     string nome = "Ricardo";
@@ -17,6 +25,14 @@ public class Program
     WriteLine($"O novo nome é {nome}");
 
   }
+	static void Demo4()
+	{
+		string nome = "Lucas";
+
+		TrocarNome(nome, "José");
+
+		WriteLine($"O novo nome é {nome}");
+	}
   static void Demo3()
   {
     StructPessoa p1 = new StructPessoa
@@ -85,8 +101,15 @@ public class Program
 
   }
 
+	static void MudarParaImpar(int[] pares)
+	{
+		for(int i = 0; i < pares.length; i++)
+		{
+			pares[i] = pares[i] + 1;
+		}
+	}
+	
     public static void Main()
   {
-    
   }
 }

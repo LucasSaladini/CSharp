@@ -1,0 +1,14 @@
+C:\Users\lucas.saladini\Desktop\Getters_Setters\GettersSetters\bin\Debug\net8.0\GettersSetters.exe
+C:\Users\lucas.saladini\Desktop\Getters_Setters\GettersSetters\bin\Debug\net8.0\GettersSetters.deps.json
+C:\Users\lucas.saladini\Desktop\Getters_Setters\GettersSetters\bin\Debug\net8.0\GettersSetters.runtimeconfig.json
+C:\Users\lucas.saladini\Desktop\Getters_Setters\GettersSetters\bin\Debug\net8.0\GettersSetters.dll
+C:\Users\lucas.saladini\Desktop\Getters_Setters\GettersSetters\bin\Debug\net8.0\GettersSetters.pdb
+C:\Users\lucas.saladini\Desktop\Getters_Setters\GettersSetters\obj\Debug\net8.0\GettersSetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.saladini\Desktop\Getters_Setters\GettersSetters\obj\Debug\net8.0\GettersSetters.AssemblyInfoInputs.cache
+C:\Users\lucas.saladini\Desktop\Getters_Setters\GettersSetters\obj\Debug\net8.0\GettersSetters.AssemblyInfo.cs
+C:\Users\lucas.saladini\Desktop\Getters_Setters\GettersSetters\obj\Debug\net8.0\GettersSetters.csproj.CoreCompileInputs.cache
+C:\Users\lucas.saladini\Desktop\Getters_Setters\GettersSetters\obj\Debug\net8.0\GettersSetters.dll
+C:\Users\lucas.saladini\Desktop\Getters_Setters\GettersSetters\obj\Debug\net8.0\refint\GettersSetters.dll
+C:\Users\lucas.saladini\Desktop\Getters_Setters\GettersSetters\obj\Debug\net8.0\GettersSetters.pdb
+C:\Users\lucas.saladini\Desktop\Getters_Setters\GettersSetters\obj\Debug\net8.0\GettersSetters.genruntimeconfig.cache
+C:\Users\lucas.saladini\Desktop\Getters_Setters\GettersSetters\obj\Debug\net8.0\ref\GettersSetters.dll

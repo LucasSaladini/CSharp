@@ -1,0 +1,14 @@
+C:\Users\lucas.saladini\Desktop\Modificadores\Modificadores\bin\Debug\net8.0\Modificadores.exe
+C:\Users\lucas.saladini\Desktop\Modificadores\Modificadores\bin\Debug\net8.0\Modificadores.deps.json
+C:\Users\lucas.saladini\Desktop\Modificadores\Modificadores\bin\Debug\net8.0\Modificadores.runtimeconfig.json
+C:\Users\lucas.saladini\Desktop\Modificadores\Modificadores\bin\Debug\net8.0\Modificadores.dll
+C:\Users\lucas.saladini\Desktop\Modificadores\Modificadores\bin\Debug\net8.0\Modificadores.pdb
+C:\Users\lucas.saladini\Desktop\Modificadores\Modificadores\obj\Debug\net8.0\Modificadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.saladini\Desktop\Modificadores\Modificadores\obj\Debug\net8.0\Modificadores.AssemblyInfoInputs.cache
+C:\Users\lucas.saladini\Desktop\Modificadores\Modificadores\obj\Debug\net8.0\Modificadores.AssemblyInfo.cs
+C:\Users\lucas.saladini\Desktop\Modificadores\Modificadores\obj\Debug\net8.0\Modificadores.csproj.CoreCompileInputs.cache
+C:\Users\lucas.saladini\Desktop\Modificadores\Modificadores\obj\Debug\net8.0\Modificadores.dll
+C:\Users\lucas.saladini\Desktop\Modificadores\Modificadores\obj\Debug\net8.0\refint\Modificadores.dll
+C:\Users\lucas.saladini\Desktop\Modificadores\Modificadores\obj\Debug\net8.0\Modificadores.pdb
+C:\Users\lucas.saladini\Desktop\Modificadores\Modificadores\obj\Debug\net8.0\Modificadores.genruntimeconfig.cache
+C:\Users\lucas.saladini\Desktop\Modificadores\Modificadores\obj\Debug\net8.0\ref\Modificadores.dll

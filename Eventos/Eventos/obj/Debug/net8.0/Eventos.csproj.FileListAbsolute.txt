@@ -1,0 +1,14 @@
+C:\Users\lucas.saladini\Desktop\Eventos\Eventos\bin\Debug\net8.0\Eventos.exe
+C:\Users\lucas.saladini\Desktop\Eventos\Eventos\bin\Debug\net8.0\Eventos.deps.json
+C:\Users\lucas.saladini\Desktop\Eventos\Eventos\bin\Debug\net8.0\Eventos.runtimeconfig.json
+C:\Users\lucas.saladini\Desktop\Eventos\Eventos\bin\Debug\net8.0\Eventos.dll
+C:\Users\lucas.saladini\Desktop\Eventos\Eventos\bin\Debug\net8.0\Eventos.pdb
+C:\Users\lucas.saladini\Desktop\Eventos\Eventos\obj\Debug\net8.0\Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.saladini\Desktop\Eventos\Eventos\obj\Debug\net8.0\Eventos.AssemblyInfoInputs.cache
+C:\Users\lucas.saladini\Desktop\Eventos\Eventos\obj\Debug\net8.0\Eventos.AssemblyInfo.cs
+C:\Users\lucas.saladini\Desktop\Eventos\Eventos\obj\Debug\net8.0\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\lucas.saladini\Desktop\Eventos\Eventos\obj\Debug\net8.0\Eventos.dll
+C:\Users\lucas.saladini\Desktop\Eventos\Eventos\obj\Debug\net8.0\refint\Eventos.dll
+C:\Users\lucas.saladini\Desktop\Eventos\Eventos\obj\Debug\net8.0\Eventos.pdb
+C:\Users\lucas.saladini\Desktop\Eventos\Eventos\obj\Debug\net8.0\Eventos.genruntimeconfig.cache
+C:\Users\lucas.saladini\Desktop\Eventos\Eventos\obj\Debug\net8.0\ref\Eventos.dll

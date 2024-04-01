@@ -1,0 +1,15 @@
+/home/midnight243/Documents/Estudos/CSharp/Colecoes_e_LINQ/Array/Colecoes/bin/Debug/net8.0/Colecoes
+/home/midnight243/Documents/Estudos/CSharp/Colecoes_e_LINQ/Array/Colecoes/bin/Debug/net8.0/Colecoes.deps.json
+/home/midnight243/Documents/Estudos/CSharp/Colecoes_e_LINQ/Array/Colecoes/bin/Debug/net8.0/Colecoes.runtimeconfig.json
+/home/midnight243/Documents/Estudos/CSharp/Colecoes_e_LINQ/Array/Colecoes/bin/Debug/net8.0/Colecoes.dll
+/home/midnight243/Documents/Estudos/CSharp/Colecoes_e_LINQ/Array/Colecoes/bin/Debug/net8.0/Colecoes.pdb
+/home/midnight243/Documents/Estudos/CSharp/Colecoes_e_LINQ/Array/Colecoes/obj/Debug/net8.0/Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight243/Documents/Estudos/CSharp/Colecoes_e_LINQ/Array/Colecoes/obj/Debug/net8.0/Colecoes.AssemblyInfoInputs.cache
+/home/midnight243/Documents/Estudos/CSharp/Colecoes_e_LINQ/Array/Colecoes/obj/Debug/net8.0/Colecoes.AssemblyInfo.cs
+/home/midnight243/Documents/Estudos/CSharp/Colecoes_e_LINQ/Array/Colecoes/obj/Debug/net8.0/Colecoes.csproj.CoreCompileInputs.cache
+/home/midnight243/Documents/Estudos/CSharp/Colecoes_e_LINQ/Array/Colecoes/obj/Debug/net8.0/Colecoes.sourcelink.json
+/home/midnight243/Documents/Estudos/CSharp/Colecoes_e_LINQ/Array/Colecoes/obj/Debug/net8.0/Colecoes.dll
+/home/midnight243/Documents/Estudos/CSharp/Colecoes_e_LINQ/Array/Colecoes/obj/Debug/net8.0/refint/Colecoes.dll
+/home/midnight243/Documents/Estudos/CSharp/Colecoes_e_LINQ/Array/Colecoes/obj/Debug/net8.0/Colecoes.pdb
+/home/midnight243/Documents/Estudos/CSharp/Colecoes_e_LINQ/Array/Colecoes/obj/Debug/net8.0/Colecoes.genruntimeconfig.cache
+/home/midnight243/Documents/Estudos/CSharp/Colecoes_e_LINQ/Array/Colecoes/obj/Debug/net8.0/ref/Colecoes.dll

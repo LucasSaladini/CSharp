@@ -30,5 +30,15 @@ namespace Bubble_Sort.Helper
             var linha = string.Join(", ", array);
             Console.WriteLine(linha);
         }
+
+        public void Ordernar(ref int[] array)
+        {
+            Array.Sort(array);
+        }
+
+        public void Copiar(ref int[] array, ref int[] arrayDestino)
+        {
+            Array.Copy(array, arrayDestino, array.Length);
+        }
     }
 }

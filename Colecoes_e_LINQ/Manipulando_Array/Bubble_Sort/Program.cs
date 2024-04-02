@@ -6,11 +6,13 @@ int[] arrayCopia = new int[10];
 
 int valorProcurado = 10;
 
-System.Console.WriteLine($"Capacidade atual do array: {array.Length}");
+string[] arrayString = op.ConverterParaArrayString(array);
 
-op.RedimensionarArray(ref array, array.Length * 2);
+// System.Console.WriteLine($"Capacidade atual do array: {array.Length}");
 
-System.Console.WriteLine($"Capacidade atual do array após redimensionar: {array.Length}");
+// op.RedimensionarArray(ref array, array.Length * 2);
+
+// System.Console.WriteLine($"Capacidade atual do array após redimensionar: {array.Length}");
 
 // int valorAchado = op.ObterValor(array, valorProcurado);
 // int indiceValor = op.ObterIndice(array, valorProcurado);

@@ -6,19 +6,25 @@ int[] arrayCopia = new int[10];
 
 int valorProcurado = 10;
 
-int valorAchado = op.ObterValor(array, valorProcurado);
-int indiceValor = op.ObterIndice(array, valorProcurado);
+System.Console.WriteLine($"Capacidade atual do array: {array.Length}");
 
-if(valorAchado > 0)
-{
-    Console.WriteLine("Encontrei o valor");
-    if(indiceValor > -1)
-        Console.WriteLine("O valor {0} está no índice {1}", valorProcurado, indiceValor);
-}
-else
-{
-    Console.WriteLine("Não encontrei o valor");
-}
+op.RedimensionarArray(ref array, array.Length * 2);
+
+System.Console.WriteLine($"Capacidade atual do array após redimensionar: {array.Length}");
+
+// int valorAchado = op.ObterValor(array, valorProcurado);
+// int indiceValor = op.ObterIndice(array, valorProcurado);
+
+// if(valorAchado > 0)
+// {
+//     Console.WriteLine("Encontrei o valor");
+//     if(indiceValor > -1)
+//         Console.WriteLine("O valor {0} está no índice {1}", valorProcurado, indiceValor);
+// }
+// else
+// {
+//     Console.WriteLine("Não encontrei o valor");
+// }
 
 // bool todosMaiorQue = op.TodosMaiorQue(array, valorProcurado);
 

@@ -1,25 +1,24 @@
 ﻿using System.Collections.Generic;
+using Colecoes_Genericas.Helper;
 
+OperacoesLista opLista = new OperacoesLista();
 List<string> estados = new List<string>();
 
 estados.Add("SP");
 estados.Add("MG");
 estados.Add("BA");
 
-System.Console.WriteLine($"Quantidade de elementos na lista: {estados.Count}");
+// System.Console.WriteLine("--------------");
+// System.Console.WriteLine("Imprimindo através do foreach");
 
-System.Console.WriteLine("--------------");
-System.Console.WriteLine("Imprimindo através do foreach");
+// foreach (var item in estados)
+// {
+//     System.Console.WriteLine(item);
+// }
 
-foreach (var item in estados)
-{
-    System.Console.WriteLine(item);
-}
+opLista.ImprimirListaString(estados);
 
-System.Console.WriteLine("--------------");
-System.Console.WriteLine("Imprimindo através do for");
+System.Console.WriteLine("Removendo o elemento");
+estados.Remove("MG");
 
-for (int i = 0; i < estados.Count; i++)
-{
-    System.Console.WriteLine($"Índice {i}: {estados[i]}");
-}
+opLista.ImprimirListaString(estados);

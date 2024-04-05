@@ -14,3 +14,10 @@ System.Console.WriteLine("Acessando um valor do Dictionary");
 
 string valorProcurado = "BA";
 System.Console.WriteLine(estados[valorProcurado]);
+
+System.Console.WriteLine("---------");
+System.Console.WriteLine("Atuaizando um valor do Dictionary");
+
+estados[valorProcurado] = "BA - Atualizado";
+
+System.Console.WriteLine(estados[valorProcurado]);

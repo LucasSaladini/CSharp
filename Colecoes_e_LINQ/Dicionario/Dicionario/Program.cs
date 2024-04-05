@@ -32,3 +32,12 @@ foreach (var item in estados)
 {
     System.Console.WriteLine($"Chave: {item.Key} - Valor: {item.Value}");
 }
+
+if(estados.TryGetValue(valorProcurado, out string estadoEncontrado))
+{
+    System.Console.WriteLine(estadoEncontrado);
+}
+else
+{
+    System.Console.WriteLine($"Chave {valorProcurado} não existe no dicionário");
+}

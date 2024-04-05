@@ -1,0 +1,14 @@
+C:\Users\lucas.saladini\Desktop\Nova pasta\Colecoes_Especificas\bin\Debug\net8.0\Colecoes_Especificas.exe
+C:\Users\lucas.saladini\Desktop\Nova pasta\Colecoes_Especificas\bin\Debug\net8.0\Colecoes_Especificas.deps.json
+C:\Users\lucas.saladini\Desktop\Nova pasta\Colecoes_Especificas\bin\Debug\net8.0\Colecoes_Especificas.runtimeconfig.json
+C:\Users\lucas.saladini\Desktop\Nova pasta\Colecoes_Especificas\bin\Debug\net8.0\Colecoes_Especificas.dll
+C:\Users\lucas.saladini\Desktop\Nova pasta\Colecoes_Especificas\bin\Debug\net8.0\Colecoes_Especificas.pdb
+C:\Users\lucas.saladini\Desktop\Nova pasta\Colecoes_Especificas\obj\Debug\net8.0\Colecoes_Especificas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.saladini\Desktop\Nova pasta\Colecoes_Especificas\obj\Debug\net8.0\Colecoes_Especificas.AssemblyInfoInputs.cache
+C:\Users\lucas.saladini\Desktop\Nova pasta\Colecoes_Especificas\obj\Debug\net8.0\Colecoes_Especificas.AssemblyInfo.cs
+C:\Users\lucas.saladini\Desktop\Nova pasta\Colecoes_Especificas\obj\Debug\net8.0\Colecoes_Especificas.csproj.CoreCompileInputs.cache
+C:\Users\lucas.saladini\Desktop\Nova pasta\Colecoes_Especificas\obj\Debug\net8.0\Colecoes_Especificas.dll
+C:\Users\lucas.saladini\Desktop\Nova pasta\Colecoes_Especificas\obj\Debug\net8.0\refint\Colecoes_Especificas.dll
+C:\Users\lucas.saladini\Desktop\Nova pasta\Colecoes_Especificas\obj\Debug\net8.0\Colecoes_Especificas.pdb
+C:\Users\lucas.saladini\Desktop\Nova pasta\Colecoes_Especificas\obj\Debug\net8.0\Colecoes_Especificas.genruntimeconfig.cache
+C:\Users\lucas.saladini\Desktop\Nova pasta\Colecoes_Especificas\obj\Debug\net8.0\ref\Colecoes_Especificas.dll

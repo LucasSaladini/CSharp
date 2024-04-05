@@ -3,6 +3,7 @@ using Colecoes_Genericas.Helper;
 
 OperacoesLista opLista = new OperacoesLista();
 List<string> estados = new List<string>();
+string[] estadosArray = new string[2] { "SC", "MT" };
 
 estados.Add("SP");
 estados.Add("MG");
@@ -18,7 +19,9 @@ estados.Add("BA");
 
 opLista.ImprimirListaString(estados);
 
-System.Console.WriteLine("Removendo o elemento");
-estados.Remove("MG");
+// System.Console.WriteLine("Removendo o elemento");
+// estados.Remove("MG");
+
+estados.AddRange(estadosArray);
 
 opLista.ImprimirListaString(estados);

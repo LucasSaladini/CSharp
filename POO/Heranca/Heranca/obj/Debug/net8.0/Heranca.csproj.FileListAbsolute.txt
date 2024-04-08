@@ -1,0 +1,14 @@
+C:\Users\lucas.saladini\Desktop\Nova pasta\Heranca\bin\Debug\net8.0\Heranca.exe
+C:\Users\lucas.saladini\Desktop\Nova pasta\Heranca\bin\Debug\net8.0\Heranca.deps.json
+C:\Users\lucas.saladini\Desktop\Nova pasta\Heranca\bin\Debug\net8.0\Heranca.runtimeconfig.json
+C:\Users\lucas.saladini\Desktop\Nova pasta\Heranca\bin\Debug\net8.0\Heranca.dll
+C:\Users\lucas.saladini\Desktop\Nova pasta\Heranca\bin\Debug\net8.0\Heranca.pdb
+C:\Users\lucas.saladini\Desktop\Nova pasta\Heranca\obj\Debug\net8.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.saladini\Desktop\Nova pasta\Heranca\obj\Debug\net8.0\Heranca.AssemblyInfoInputs.cache
+C:\Users\lucas.saladini\Desktop\Nova pasta\Heranca\obj\Debug\net8.0\Heranca.AssemblyInfo.cs
+C:\Users\lucas.saladini\Desktop\Nova pasta\Heranca\obj\Debug\net8.0\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\lucas.saladini\Desktop\Nova pasta\Heranca\obj\Debug\net8.0\Heranca.dll
+C:\Users\lucas.saladini\Desktop\Nova pasta\Heranca\obj\Debug\net8.0\refint\Heranca.dll
+C:\Users\lucas.saladini\Desktop\Nova pasta\Heranca\obj\Debug\net8.0\Heranca.pdb
+C:\Users\lucas.saladini\Desktop\Nova pasta\Heranca\obj\Debug\net8.0\Heranca.genruntimeconfig.cache
+C:\Users\lucas.saladini\Desktop\Nova pasta\Heranca\obj\Debug\net8.0\ref\Heranca.dll

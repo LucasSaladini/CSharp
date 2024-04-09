@@ -1,0 +1,14 @@
+C:\Users\lucas.saladini\Desktop\Nova pasta\Manipulando_Arquivos\bin\Debug\net8.0\Manipulando_Arquivos.exe
+C:\Users\lucas.saladini\Desktop\Nova pasta\Manipulando_Arquivos\bin\Debug\net8.0\Manipulando_Arquivos.deps.json
+C:\Users\lucas.saladini\Desktop\Nova pasta\Manipulando_Arquivos\bin\Debug\net8.0\Manipulando_Arquivos.runtimeconfig.json
+C:\Users\lucas.saladini\Desktop\Nova pasta\Manipulando_Arquivos\bin\Debug\net8.0\Manipulando_Arquivos.dll
+C:\Users\lucas.saladini\Desktop\Nova pasta\Manipulando_Arquivos\bin\Debug\net8.0\Manipulando_Arquivos.pdb
+C:\Users\lucas.saladini\Desktop\Nova pasta\Manipulando_Arquivos\obj\Debug\net8.0\Manipulando_Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.saladini\Desktop\Nova pasta\Manipulando_Arquivos\obj\Debug\net8.0\Manipulando_Arquivos.AssemblyInfoInputs.cache
+C:\Users\lucas.saladini\Desktop\Nova pasta\Manipulando_Arquivos\obj\Debug\net8.0\Manipulando_Arquivos.AssemblyInfo.cs
+C:\Users\lucas.saladini\Desktop\Nova pasta\Manipulando_Arquivos\obj\Debug\net8.0\Manipulando_Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\lucas.saladini\Desktop\Nova pasta\Manipulando_Arquivos\obj\Debug\net8.0\Manipulando_Arquivos.dll
+C:\Users\lucas.saladini\Desktop\Nova pasta\Manipulando_Arquivos\obj\Debug\net8.0\refint\Manipulando_Arquivos.dll
+C:\Users\lucas.saladini\Desktop\Nova pasta\Manipulando_Arquivos\obj\Debug\net8.0\Manipulando_Arquivos.pdb
+C:\Users\lucas.saladini\Desktop\Nova pasta\Manipulando_Arquivos\obj\Debug\net8.0\Manipulando_Arquivos.genruntimeconfig.cache
+C:\Users\lucas.saladini\Desktop\Nova pasta\Manipulando_Arquivos\obj\Debug\net8.0\ref\Manipulando_Arquivos.dll

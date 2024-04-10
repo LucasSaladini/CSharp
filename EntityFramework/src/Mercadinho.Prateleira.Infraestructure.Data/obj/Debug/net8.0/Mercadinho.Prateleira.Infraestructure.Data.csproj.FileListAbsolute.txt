@@ -1,0 +1,15 @@
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Infraestructure.Data\obj\Debug\net8.0\Mercadinho.Prateleira.Infraestructure.Data.csproj.AssemblyReference.cache
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Infraestructure.Data\obj\Debug\net8.0\Mercadinho.Prateleira.Infraestructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Infraestructure.Data\obj\Debug\net8.0\Mercadinho.Prateleira.Infraestructure.Data.AssemblyInfoInputs.cache
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Infraestructure.Data\obj\Debug\net8.0\Mercadinho.Prateleira.Infraestructure.Data.AssemblyInfo.cs
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Infraestructure.Data\obj\Debug\net8.0\Mercadinho.Prateleira.Infraestructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Infraestructure.Data\bin\Debug\net8.0\Mercadinho.Prateleira.Infraestructure.Data.deps.json
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Infraestructure.Data\bin\Debug\net8.0\Mercadinho.Prateleira.Infraestructure.Data.dll
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Infraestructure.Data\bin\Debug\net8.0\Mercadinho.Prateleira.Infraestructure.Data.pdb
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Infraestructure.Data\obj\Debug\net8.0\Mercadinho.Prateleira.Infraestructure.Data.dll
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Infraestructure.Data\obj\Debug\net8.0\refint\Mercadinho.Prateleira.Infraestructure.Data.dll
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Infraestructure.Data\obj\Debug\net8.0\Mercadinho.Prateleira.Infraestructure.Data.pdb
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Infraestructure.Data\obj\Debug\net8.0\ref\Mercadinho.Prateleira.Infraestructure.Data.dll
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Infraestructure.Data\bin\Debug\net8.0\Mercadinho.Prateleira.Domain.dll
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Infraestructure.Data\bin\Debug\net8.0\Mercadinho.Prateleira.Domain.pdb
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Infraestructure.Data\obj\Debug\net8.0\Mercadin.8E739546.Up2Date

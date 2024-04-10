@@ -1,0 +1,11 @@
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Domain\bin\Debug\net8.0\Mercadinho.Prateleira.Domain.deps.json
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Domain\bin\Debug\net8.0\Mercadinho.Prateleira.Domain.dll
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Domain\bin\Debug\net8.0\Mercadinho.Prateleira.Domain.pdb
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Domain\obj\Debug\net8.0\Mercadinho.Prateleira.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Domain\obj\Debug\net8.0\Mercadinho.Prateleira.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Domain\obj\Debug\net8.0\Mercadinho.Prateleira.Domain.AssemblyInfo.cs
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Domain\obj\Debug\net8.0\Mercadinho.Prateleira.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Domain\obj\Debug\net8.0\Mercadinho.Prateleira.Domain.dll
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Domain\obj\Debug\net8.0\refint\Mercadinho.Prateleira.Domain.dll
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Domain\obj\Debug\net8.0\Mercadinho.Prateleira.Domain.pdb
+C:\Users\lucas.saladini\Desktop\Nova pasta\src\Mercadinho.Prateleira.Domain\obj\Debug\net8.0\ref\Mercadinho.Prateleira.Domain.dll
